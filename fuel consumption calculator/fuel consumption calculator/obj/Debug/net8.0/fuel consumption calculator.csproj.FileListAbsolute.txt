@@ -1,0 +1,14 @@
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\bin\Debug\net8.0\fuel consumption calculator.exe
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\bin\Debug\net8.0\fuel consumption calculator.deps.json
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\bin\Debug\net8.0\fuel consumption calculator.runtimeconfig.json
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\bin\Debug\net8.0\fuel consumption calculator.dll
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\bin\Debug\net8.0\fuel consumption calculator.pdb
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.AssemblyInfoInputs.cache
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.AssemblyInfo.cs
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.csproj.CoreCompileInputs.cache
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.dll
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\refint\fuel consumption calculator.dll
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.pdb
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\fuel consumption calculator.genruntimeconfig.cache
+C:\Users\ekerm\OneDrive\Рабочий стол\Udemy\BooksPractic\Fuel-consumption-calculator\fuel consumption calculator\fuel consumption calculator\obj\Debug\net8.0\ref\fuel consumption calculator.dll
